@@ -9,5 +9,5 @@ Funcionalidades do site: Ver informações, alterar informações, comentar.
 Usuário Administrador: Gerenciar usuários, páginas e comentários.
 Usuário Logado: Comentar e ler informações.
 Usuário Visitante: Ler informações e comentários.
-Mapa de Navegação: 
-Wireframe: 
+Mapa de Navegação: http://imgur.com/OeXVDAN
+Wireframe: http://imgur.com/3qV98ty
